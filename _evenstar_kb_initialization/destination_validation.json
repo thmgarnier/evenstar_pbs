@@ -1,0 +1,39 @@
+{
+  "vault": "C:\\Users\\Usuario\\OneDrive\\Documentos\\Obsidian Vault\\Evenstar",
+  "markdown_files": 232,
+  "derived_notes": 228,
+  "original_sources": 4,
+  "wikilinks_checked": 2724,
+  "home_reachable_notes": 232,
+  "source_major_sections_covered": 108,
+  "source_hashes": [
+    {
+      "file": "README.md",
+      "bytes": 15157,
+      "sha256_matches": true
+    },
+    {
+      "file": "EVENSTAR_PBS_ASTRA.md",
+      "bytes": 21736,
+      "sha256_matches": true
+    },
+    {
+      "file": "EVENSTAR_PSS_ASTRA.md",
+      "bytes": 20948,
+      "sha256_matches": true
+    },
+    {
+      "file": "EVENSTAR_PMS_AIRTABLE_ASTRA.md",
+      "bytes": 16472,
+      "sha256_matches": true
+    }
+  ],
+  "requirements": 59,
+  "accepted_requirements": 52,
+  "proposed_requirements": 7,
+  "current_adrs": 16,
+  "historical_adrs": 7,
+  "open_questions": 24,
+  "errors": [],
+  "passed": true
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "key": "IDS",
+    "filename": "README.md",
+    "original_path": "C:\\Users\\Usuario\\OneDrive\\Documentos\\ChatGPT\\Evenstar\\README.md",
+    "bytes": 15157,
+    "sha256": "c8b1f0c9e96d158ab63e508aed445919afb1274d25a91279b0ccfae6301e7b20",
+    "ingested_at": "2026-09-11"
+  },
+  {
+    "key": "PBS",
+    "filename": "EVENSTAR_PBS_ASTRA.md",
+    "original_path": "C:\\Users\\Usuario\\OneDrive\\Documentos\\ChatGPT\\Evenstar\\EVENSTAR_PBS_ASTRA.md",
+    "bytes": 21736,
+    "sha256": "d5d6c34759ec518cf9a66977f868499fabdaea0c841da36f96e8224e56242369",
+    "ingested_at": "2026-09-11"
+  },
+  {
+    "key": "PSS",
+    "filename": "EVENSTAR_PSS_ASTRA.md",
+    "original_path": "C:\\Users\\Usuario\\OneDrive\\Documentos\\ChatGPT\\Evenstar\\EVENSTAR_PSS_ASTRA.md",
+    "bytes": 20948,
+    "sha256": "f0a5d2611680758c77281f3e7de5cb386f28681a0540264ef9f8fe1ae442c1de",
+    "ingested_at": "2026-09-11"
+  },
+  {
+    "key": "PMS",
+    "filename": "EVENSTAR_PMS_AIRTABLE_ASTRA.md",
+    "original_path": "C:\\Users\\Usuario\\OneDrive\\Documentos\\ChatGPT\\Evenstar\\EVENSTAR_PMS_AIRTABLE_ASTRA.md",
+    "bytes": 16472,
+    "sha256": "d95c51da336d5859908b19d9d13ef14b356b8f1b34afdaf17153a2594f9a3bee",
+    "ingested_at": "2026-09-11"
+  }
+]
