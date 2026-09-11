@@ -1,0 +1,17 @@
+{
+  "schemaVersion": "pss-register-0.1",
+  "project": {
+    "id": "10000000-0000-4000-8000-000000000001",
+    "code": "EV-DEMO-001",
+    "name": "Evenstar Reference Skid",
+    "revision": "A"
+  },
+  "species": [],
+  "compositions": [],
+  "streams": [],
+  "variables": [],
+  "cases": [],
+  "models": [],
+  "runs": [],
+  "publishedResults": []
+}

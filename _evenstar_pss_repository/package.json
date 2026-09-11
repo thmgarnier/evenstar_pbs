@@ -1,0 +1,40 @@
+{
+  "name": "evenstar-pss",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Evenstar Plant Simulation System — desktop thermodynamics laboratory",
+  "author": "Evenstar",
+  "type": "module",
+  "main": "electron/main.mjs",
+  "packageManager": "pnpm@10.15.1",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "dev": "concurrently -k \"vite --port 5173 --strictPort\" \"electron .\"",
+    "dev:web": "vite --port 5173 --strictPort",
+    "build": "tsc -b && vite build",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "lucide-react": "^1.31.0",
+    "react": "19.2.6",
+    "react-dom": "19.2.6"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": ["electron", "esbuild"]
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "4.2.1",
+    "@types/react": "19.2.14",
+    "@types/react-dom": "19.2.3",
+    "@vitejs/plugin-react": "^5.0.4",
+    "concurrently": "^9.2.1",
+    "electron": "^35.2.1",
+    "tailwindcss": "4.2.1",
+    "typescript": "5.9.3",
+    "vite": "^7.1.7",
+    "vitest": "^3.2.4"
+  }
+}
